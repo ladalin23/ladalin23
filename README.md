@@ -10,9 +10,9 @@ I'm a passionate and curious developer who loves building robust, scalable, and 
 
 * 🎓 Currently pursuing a **Bachelor of Software Engineering** at BELTEI International University (2023 - 2026).
 * 💼 Working at **Wintech Software Development**, contributing to Education Management Systems.
-* 🚀 Deep-diving into **DevOps, Docker, and CI/CD pipelines**.
+* 🚀 Specialized in **web application development**, system implementation, and collaborating with clients.
 * 💡 I enjoy solving performance and architecture challenges.
-* ⚡ Fun fact: I use both **Linux (Ubuntu)** and **Windows** for my development workflows.
+* ⚡ Fun fact: I primarily use **Windows** for my development workflow.
 
 ---
 
